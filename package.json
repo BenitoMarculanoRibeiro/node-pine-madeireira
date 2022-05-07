@@ -1,0 +1,24 @@
+{
+  "name": "pine-madeireira",
+  "version": "1.0.0",
+  "description": "Criação de um e commerce para uma madeireira.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenitoMarculanoRibeiro/node-pine-madeireira.git"
+  },
+  "author": "Benito Marculano Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenitoMarculanoRibeiro/node-pine-madeireira/issues"
+  },
+  "homepage": "https://github.com/BenitoMarculanoRibeiro/node-pine-madeireira#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.5",
+    "handlebars": "^4.7.7"
+  }
+}
